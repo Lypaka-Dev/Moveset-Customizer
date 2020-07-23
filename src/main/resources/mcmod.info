@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "movesetcustomizer",
+        "name": "Moveset-Customizer",
+        "description": "Highly configurable plugin for customizing the moves Pokemon spawn with and learn on level up based on specified areas",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Lypaka"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
